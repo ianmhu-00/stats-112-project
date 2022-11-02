@@ -6,13 +6,10 @@ The experiment was a randomized, double-blind study of AIDS patients with advanc
 
 1309 patients were randomized to be administered four different daily treatments of medication called Zidovudine. The four treatments are as follows:
 
-Treatment 1: zidovudine alternating monthly with 400mg didanosine
-
-Treatment 2: zidovudine plus 2.25mg of zalcitabine
-
-Treatment 3: zidovudine plus 400mg of didanosine
-
-Treatment 4: zidovudine plus 400mg of didanosine plus 400mg of nevirapine
+Treatment 1: zidovudine alternating monthly with 400mg didanosine  
+Treatment 2: zidovudine plus 2.25mg of zalcitabine  
+Treatment 3: zidovudine plus 400mg of didanosine  
+Treatment 4: zidovudine plus 400mg of didanosine plus 400mg of nevirapine  
 
 The variables of interest are listed below:
 log_CD4: log transformed CD4 counts (log(CD4 + 1))
